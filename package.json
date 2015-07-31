@@ -1,6 +1,6 @@
 {
 	"name": "canYouDo",
-	"description": "checklists for skills assessment",
+	"description": "Checklists for skills assessment",
 	"version": "0.0.1",
 	"main": "server.js",
 	"scripts":{
